@@ -1,5 +1,5 @@
 Story,Diaphragm,Mass X,Mass Y,XCM,YCM,Cumulative X,Cumulative Y,XCCM,YCCM,XCR,YCR
-,,tonf-s²/m,tonf-s²/m,m,m,tonf-s²/m,tonf-s²/m,m,m,m,m
+,,tonf-s2/m,tonf-s2/m,m,m,tonf-s2/m,tonf-s2/m,m,m,m,m
 Story1,D1,219.04899,219.04899,17,25.5,219.04899,219.04899,17,25.5,,
 Story2,D2,217.26857,217.26857,17,25.5,217.26857,217.26857,17,25.5,,
 Story3,D3,217.26857,217.26857,17,25.5,217.26857,217.26857,17,25.5,,
